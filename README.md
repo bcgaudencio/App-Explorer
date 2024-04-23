@@ -1,15 +1,19 @@
 # App-Explorer
 App Andoid for explore Cellphone
-Descripción
+## Descripción
 App Explorer es una herramienta avanzada de gestión e inventario para visualizar y organizar todas las aplicaciones instaladas en un dispositivo Android. Esta solución proporciona una interfaz intuitiva y detallada para la enumeración completa de aplicaciones, permitiendo a los usuarios obtener información exhaustiva y gestionar sus aplicaciones de manera eficiente.
 
 ## Características Técnicas
 ### Detección Completa: 
 Implementa un escaneo profundo del sistema para detectar todas las aplicaciones instaladas, incluyendo aplicaciones de sistema y de terceros.
-Metadatos de Aplicación: Extrae y presenta metadatos críticos tales como nombre de la aplicación, versión, permisos solicitados, actividad de red, y más.
-Interfaz de Usuario Personalizable: Ofrece una interfaz de usuario (UI) personalizable que se adapta a las preferencias del usuario, mejorando así la experiencia de usuario (UX).
-Gestión de Aplicaciones: Permite a los usuarios realizar acciones como abrir, compartir, o desinstalar aplicaciones directamente desde la interfaz.
-Seguridad Mejorada: Integra características de seguridad como el análisis de permisos de aplicaciones para identificar posibles riesgos de seguridad.
+### Metadatos de Aplicación: 
+Extrae y presenta metadatos críticos tales como nombre de la aplicación, versión, permisos solicitados, actividad de red, y más.
+###  Interfaz de Usuario Personalizable: 
+Ofrece una interfaz de usuario (UI) personalizable que se adapta a las preferencias del usuario, mejorando así la experiencia de usuario (UX).
+###  Gestión de Aplicaciones: 
+En las posibles mejores se permite a los usuarios realizar acciones como abrir, compartir, o desinstalar aplicaciones directamente desde la interfaz.
+### Seguridad Mejorada: 
+Integra características de seguridad como el análisis de permisos de aplicaciones para identificar posibles riesgos de seguridad.
 
 ## Estructura del Proyecto
 El proyecto sigue una estructura modularizada y escalable que facilita el mantenimiento y la expansión futura:
